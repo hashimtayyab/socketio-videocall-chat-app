@@ -1,0 +1,46 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^1.5.0",
+    "bootstrap": "^5.3.1",
+    "buffer": "^6.0.3",
+    "cdbreact": "^1.5.18",
+    "cloudinary": "^1.40.0",
+    "cloudinary-core": "^2.13.0",
+    "crypto": "^1.0.1",
+    "crypto-browserify": "^3.12.0",
+    "dotenv": "^16.3.1",
+    "formik": "^2.4.3",
+    "formik-persist-values": "^1.4.1",
+    "jwt-decode": "^3.1.2",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.8.0",
+    "react-dom": "^18.2.0",
+    "react-jwt": "^1.2.0",
+    "react-router-dom": "^6.15.0",
+    "react-scripts": "^5.0.1",
+    "simple-peer": "^9.11.1",
+    "socket.io-client": "^4.7.2",
+    "yup": "^1.2.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

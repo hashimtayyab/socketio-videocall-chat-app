@@ -1,0 +1,12 @@
+.conversation{
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.conversationImg{
+    height: 40px;
+    width: 40px;
+    border-radius: 50px;
+    object-fit: cover;
+}

@@ -1,0 +1,32 @@
+.checkin-box{
+    border: solid 1px;
+    width: fit-content
+}
+
+.dashboard{
+    display: flex;
+    background-color: gainsboro;
+}
+.dashboard .container .row .col{
+padding-top: 40px;
+}
+
+.card-text{
+    font-size: 1rem;
+    font-weight: 500;
+}
+.card-body{
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+}
+
+@media screen and (max-width: 600px) {
+
+    .side-bar{
+        display: none;
+    }
+}
+

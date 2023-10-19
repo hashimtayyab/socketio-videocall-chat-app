@@ -1,0 +1,24 @@
+/* .navContainer{
+    background-color: blue;
+} */
+
+div.navContainer.container{
+    display: flex;
+    margin: 0;
+}
+
+nav.navbar.navbar-expand.navbar-light{
+    padding-left: 5px;
+    padding-right: 5px;
+    margin: 1px;
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 20px;
+
+
+    height: 30px;
+    align-items: center;
+    align-content: center;
+    margin-top: 5px;
+}
+

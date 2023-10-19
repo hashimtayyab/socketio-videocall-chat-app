@@ -1,0 +1,63 @@
+/* .mainHomeDiv{
+    height: 100vh;
+    width: 100vh;
+    background-repeat: no-repeat;
+
+    background-image: url(https://img.freepik.com/free-vector/realistic-3d-podium-background_23-2149166921.jpg?w=996&t=st=1694870934~exp=1694871534~hmac=b093f0db83103346827257d78e6fb8b638a2cdf7d56ec3bd6896d4465cfdc03d);
+
+} */
+
+.myImg{
+    width: 50vh;
+}
+body, html {
+    height: 100%;
+  }
+
+/* 
+  .card{
+    display: flex;
+  } */
+
+
+  
+/* 
+.container{
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://img.freepik.com/free-vector/realistic-3d-podium-background_23-2149166921.jpg?w=996&t=st=1694870934~exp=1694871534~hmac=b093f0db83103346827257d78e6fb8b638a2cdf7d56ec3bd6896d4465cfdc03d);
+    color: aliceblue;
+    background-image: url(https://img.freepik.com/free-photo/human-resources-concept-with-hand_23-2150389113.jpg?w=996&t=st=1694864602~exp=1694865202~hmac=ff35bdf14548c6f50332d459fa7bed0a2ad9f9c3f7375840ae8ce3cadb959aec);
+} */
+
+
+.login-field{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
+}
+.signup-field{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    border-radius: 10px;
+}
+
+
+
+.login_page{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('https://img.freepik.com/premium-vector/white-elegant-blue-background_662550-436.jpg?w=1060');
+}
+.signup_page{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url('https://img.freepik.com/premium-vector/white-elegant-blue-background_662550-436.jpg?w=1060');
+}
+
+/* nav{
+    display: none;
+} */
